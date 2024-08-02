@@ -1,1 +1,8 @@
 /* Place custom css here */
+.logo {
+    position: absolute;
+    padding-left:10px;
+    float: left;        
+    height: var(--logo-height);
+    left: 0;  
+  }

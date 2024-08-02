@@ -2,6 +2,7 @@
     --main-width: 780px;
     --main-padding: 1.4em;
     --main-padding-bottom: 3rem;
+    --logo-height: 112px;
 
     --caption-padding: calc(.25 * var(--main-padding));
 
@@ -62,6 +63,7 @@
         --main-width: 750px;
         --header-top-gap: 1rem;
         --caption-padding: calc(.25 * var(--main-padding));
+        --logo-height: 56px;
     }
 }
 

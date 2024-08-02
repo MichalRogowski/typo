@@ -1,5 +1,7 @@
 .flex {
+    position: relative;
     display: flex;
+    padding-top: var(--logo-height);
 }
 
 .bold {
@@ -15,5 +17,5 @@
 }
 
 .monospace {
-    font-family: "Monaspace";
+    font-family: "Montserrat";
 }

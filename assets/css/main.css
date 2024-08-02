@@ -44,7 +44,7 @@ p {
   line-height: var(--p-line-height);
 }
 
-ul {
+ul {  ;
   margin-top: var(--ul-margin-top);
   margin-bottom: var(--ul-margin-bottom);
 }

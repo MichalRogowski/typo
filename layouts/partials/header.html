@@ -3,7 +3,9 @@
 <div class="header">
 
     {{ if or (not (.Param "hideHeader")) .IsHome }}
-
+    <a href="/">
+        <img class="logo" src="BSE_LOGO.svg" alt="logo"/>
+    </a>
     <h1 class="header-title">{{ site.Title }}</h1>
 
     <div class="flex">
